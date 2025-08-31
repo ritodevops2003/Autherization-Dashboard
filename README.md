@@ -69,10 +69,10 @@ react-dashboard-app/
 3. **Start the development server**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-4. Open **[http://localhost:3000](http://localhost:3000)** in your browser 🚀
+4. Open **[http://localhost:5173/](http://localhost:5173/)** in your browser 🚀
 
 ---
 
@@ -111,9 +111,6 @@ Contributions are welcome! Please fork the repo and submit a pull request.
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
