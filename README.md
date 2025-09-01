@@ -11,7 +11,7 @@ A modern React-based **Dashboard Application** with authentication (Sign Up, Log
 
   * Bar chart for **Sessions vs Pageviews**
   * Line chart for **Traffic Trends**
-  * (Optional) Pie chart for device usage (desktop, mobile, tablet)
+  )
 * 🎨 **Modern UI/UX**:
 
   * Tailwind CSS for styling
@@ -90,18 +90,26 @@ react-dashboard-app/
 ### 🏠 Home Page
 
 Landing page with options to Sign Up or Login.
+<img width="1902" height="918" alt="image" src="https://github.com/user-attachments/assets/7619bf55-1e14-4168-83b2-da474516b52b" />
+
 
 ### 🔑 Login Page
 
 User authentication with email and password.
+<img width="1897" height="897" alt="image" src="https://github.com/user-attachments/assets/f3723fa9-962a-4692-a541-b3d60049b908" />
+
 
 ### 📝 Sign Up Page
 
 Register new users with name, role, email, and password.
+<img width="1896" height="908" alt="image" src="https://github.com/user-attachments/assets/969c0b9e-3e5c-44de-b338-548b990ba4c9" />
+
 
 ### 📊 Dashboard
 
 Interactive analytics dashboard with charts and sidebar navigation.
+<img width="1891" height="870" alt="image" src="https://github.com/user-attachments/assets/309eae6e-fcd2-436d-94f4-bbc6b14ed1ff" />
+
 
 ---
 
